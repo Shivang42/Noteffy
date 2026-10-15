@@ -1,17 +1,15 @@
-# Noteffy: A productivity app
-
-Noteffy – Productivity & Task-Sharing App
+# Noteffy – Productivity & Task-Sharing App
 
 Noteffy is a productivity and task-sharing web application designed to help users organize tasks, improve collaboration, and manage their daily activities efficiently. The project was developed using the WAMP stack, with scheduled background processes and internal API modules supporting application functionality.
 
- Features
+## Features
 Task Management: Supports productivity-focused task organization and management.
 Task Sharing: Designed to facilitate task sharing and collaboration.
 Push Notifications: Uses scheduled processes to support timely notifications.
 Automated Scheduling: Implements Linux cronjobs to execute scheduled tasks and background processes.
 Internal API Modules: Integrates internal APIs to support application functionality across the site.
 Admin Panel Enhancements: Includes supplementary front-end development for the organization's administrative panel.
- Tech Stack
+## Tech Stack
 WAMP Stack: Windows, Apache, MySQL, and PHP
 Backend: PHP
 Database: MySQL
@@ -19,7 +17,7 @@ Web Server: Apache
 Scheduling: Linux Cronjobs
 Frontend: Web technologies used for the application and admin panel
 Version Control: Git and GitHub
- Key Contributions
+## Key Contributions
 Implemented Linux cronjob-based scheduling for automated background processes.
 Worked on push notification scheduling to support timely delivery of application notifications.
 Contributed to internal API modules used across the website.
@@ -69,7 +67,7 @@ Add the appropriate scheduled command using the actual script path and required 
 
 Note: The cronjob commands, scheduling intervals, API endpoints, and notification scripts must be configured according to the implementation in the repository.
 
- Configuration and Security
+## Configuration and Security
 Keep database credentials and API secrets out of version control.
 Use environment variables or appropriate configuration files for sensitive settings.
 Validate API inputs and apply suitable authentication and authorization checks.
@@ -91,11 +89,11 @@ noteffy/
 
 This is an illustrative structure, not a verified listing of the actual repository files.
 
- Project Objective
+##  Project Objective
 
 The goal of Noteffy is to provide a centralized platform for productivity and task sharing, supported by automated background processing, notification scheduling, and administrative tools.
 
- Development
+ ## Development
 
 This project involved backend-related scheduling and API work, along with supplementary front-end contributions to the organization's admin panel.
 
