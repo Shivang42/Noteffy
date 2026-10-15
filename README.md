@@ -108,4 +108,5 @@ Technology: WAMP Stack, PHP, MySQL, Apache, Linux Cronjobs
 Repository: GitHub Repository
 
 
-<img width="1785" height="857" alt="image" src="https://github.com/user-attachments/assets/f67394e2-e59d-4385-a68f-ff212dbb5542" />
+<img width="849" height="686" alt="image" src="https://github.com/user-attachments/assets/91b4d41b-26e8-4b52-970c-a2d0b50d19c9" />
+
